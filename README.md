@@ -1,16 +1,17 @@
-## Hi there 👋
+### Salut, moi c'est Dantek 👋
+Je suis dev, et derrière la chaîne **DanTek**.
 
-<!--
-**DantekFR/DantekFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ma mission : Rendre la tech et l'IA accessibles, **100% locales, gratuites et privées**. 
+Pas d'abonnements cloud abusifs. Tes données restent sur ta machine. 🛡️
 
-Here are some ideas to get you started:
+🔭 **Actuellement en train de builder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📺 **Créateur de contenu (Vulgarisation & Build in Public) :**
+- [▶️ YouTube](https://youtube.com/@dantek) (Tutos IA locale, Deep dives)
+- [📱 TikTok](https://tiktok.com/@dantek) (Astuces tech express)
+- [🎮 Twitch](https://twitch.tv/dantek) (Lives coding & galères en direct)
+
+📫 **Contact pro & Clients :** [dantekfr@proton.me](mailto:dantekfr@proton.me)
+
+---
+*"Reste maître de tes données."*
