@@ -7,9 +7,9 @@ Pas d'abonnements cloud abusifs. Tes données restent sur ta machine. 🛡️
 🔭 **Actuellement en train de builder**
 
 📺 **Créateur de contenu (Vulgarisation & Build in Public) :**
-- [▶️ YouTube](https://youtube.com/@dantek) (Tutos IA locale, Deep dives)
-- [📱 TikTok](https://tiktok.com/@dantek) (Astuces tech express)
-- [🎮 Twitch](https://twitch.tv/dantek) (Lives coding & galères en direct)
+- [▶️ YouTube](https://youtube.com/@dantekfr) (Tutos IA locale, Deep dives)
+- [📱 TikTok](https://tiktok.com/@dantekfr) (Astuces tech express)
+- [🎮 Twitch](https://twitch.tv/dantekfr) (Lives coding & galères en direct)
 
 📫 **Contact pro & Clients :** [dantekfr@proton.me](mailto:dantekfr@proton.me)
 
