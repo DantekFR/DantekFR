@@ -1,15 +1,12 @@
 ### Salut, moi c'est Dantek 👋
 Je suis dev, et derrière la chaîne **DanTek**.
 
-Ma mission : Rendre la tech et l'IA accessibles, **100% locales, gratuites et privées**. 
-Pas d'abonnements cloud abusifs. Tes données restent sur ta machine. 🛡️
-
 🔭 **Actuellement en train de builder**
 
 📺 **Créateur de contenu (Vulgarisation & Build in Public) :**
-- [▶️ YouTube](https://youtube.com/@dantekfr) (Tutos IA locale, Deep dives)
-- [📱 TikTok](https://tiktok.com/@dantekfr) (Astuces tech express)
-- [🎮 Twitch](https://twitch.tv/dantekfr) (Lives coding & galères en direct)
+- [▶️ YouTube](https://youtube.com/@dantekfr)
+- [📱 TikTok](https://tiktok.com/@dantekfr)
+- [🎮 Twitch](https://twitch.tv/dantekfr)
 
 📫 **Contact pro & Clients :** [dantekfr@proton.me](mailto:dantekfr@proton.me)
 
